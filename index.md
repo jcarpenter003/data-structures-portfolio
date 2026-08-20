@@ -9,4 +9,6 @@ Returning to school to further my education and enhance my career.
 
 ## Portfolio
 
-More coming soon!
+- [Reflections](reflections.md) 
+- [Projects](projects.md) 
+- [Debugging Journal](debugging.md)
